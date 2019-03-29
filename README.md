@@ -10,3 +10,7 @@ Materiais de Aula - Redes de Computadores
 * [Slides 02 - Camadas](https://docs.google.com/presentation/d/1Qk8yFUqnDKzgeA--00Xmo7Eh7_lC2_l3ojztubPMJsk/edit?usp=sharing)
 
 * [Slides 01 - Introdução e Conceitos Básicos](https://docs.google.com/presentation/d/1oASBRtDiCu_wyoGWKVNmXSdq-w_VJCT6E7U9ZFbhkAQ/edit?usp=sharing)
+
+Atividades
+
+[01~04](https://goo.gl/PPRjYo)
