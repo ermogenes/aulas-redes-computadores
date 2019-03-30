@@ -1,6 +1,12 @@
 # aulas-redes-computadores
 Materiais de Aula - Redes de Computadores
 
+* [Slides 08 - IEEE 802.11]() // Em breve
+
+* [Slides 07 - IEEE 802.3]() // Em breve
+
+* [Slides 06 - LANs]() // Em breve
+
 * [Slides 05 - Camada de Enlace](https://docs.google.com/presentation/d/1Eb122UtLWrOATNiBf8HWDMgNNBUUuV87wMr5egvaF7Y/edit?usp=sharing)
 
 * [Slides 04 - Camada Física - Parte 2](https://docs.google.com/presentation/d/1r9sbHyLaJr7vIJInlMKbP5W39CApBqcqMPcqIlBsO4M/edit?usp=sharing)
