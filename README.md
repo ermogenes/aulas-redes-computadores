@@ -3,7 +3,7 @@ Materiais de Aula - Redes de Computadores
 
 * [Slides 08 - IEEE 802.11 e IEEE 802.3](https://docs.google.com/presentation/d/1wakP_ekhm4-B4ZWDbDRc8nYfTaCu_NwGLmklr2Ny4I8/edit?usp=sharing)
 
-* [Slides 07 - LANs - Domínios de Colisão]() // Em breve
+* [Slides 07 - LANs - Domínios de Colisão](https://docs.google.com/presentation/d/1CxSkkAf3gcq-XD0njVnu0coDezaLrDRazeStH-9LspA/edit?usp=sharing)
 
 * [Slides 06 - LANs - Controle de Acesso ao Meio](https://docs.google.com/presentation/d/1H01z0z5-NXHvtbYXQPCkxOYQy1G_favAsxLC8Bb0EoY/edit?usp=sharing)
 
