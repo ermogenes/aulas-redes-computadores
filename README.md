@@ -1,11 +1,11 @@
 # aulas-redes-computadores
 Materiais de Aula - Redes de Computadores
 
-* [Slides 08 - IEEE 802.11]() // Em breve
+* [Slides 08 - IEEE 802.11 e IEEE 802.3]() // Em breve
 
-* [Slides 07 - IEEE 802.3]() // Em breve
+* [Slides 07 - LANs - Parte 2]() // Em breve
 
-* [Slides 06 - LANs]() // Em breve
+* [Slides 06 - LANs - Parte 1]() // Em breve
 
 * [Slides 05 - Camada de Enlace](https://docs.google.com/presentation/d/1Eb122UtLWrOATNiBf8HWDMgNNBUUuV87wMr5egvaF7Y/edit?usp=sharing)
 
