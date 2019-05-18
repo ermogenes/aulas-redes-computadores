@@ -1,6 +1,8 @@
 # aulas-redes-computadores
 Materiais de Aula - Redes de Computadores
 
+* [Slides 09 - Camada de Rede](https://docs.google.com/presentation/d/1TEJxqb5EiMgN6WSKkw_VglOCw1WmuEbJTLmBUsmr7H4/edit?usp=sharing)
+
 * [Slides 08 - IEEE 802.11 e IEEE 802.3](https://docs.google.com/presentation/d/1wakP_ekhm4-B4ZWDbDRc8nYfTaCu_NwGLmklr2Ny4I8/edit?usp=sharing)
 
 * [Slides 07 - LANs - Domínios de Colisão](https://docs.google.com/presentation/d/1CxSkkAf3gcq-XD0njVnu0coDezaLrDRazeStH-9LspA/edit?usp=sharing)
