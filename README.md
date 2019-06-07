@@ -1,7 +1,7 @@
 # aulas-redes-computadores
 Materiais de Aula - Redes de Computadores
 
-* Slides 12 - Camada de Aplicação - _em breve_
+* [Slides 12 - Camada de Aplicação](https://docs.google.com/presentation/d/1a9abcyYsOsp8TAhcD983rS3-T4fNAuJooyEQGTFWhfM/edit?usp=sharing)
 
 * [Slides 11 - Camada de Transporte](https://docs.google.com/presentation/d/1w69fR2tLQUUa0jvwL130xxv_QQCrWeHqpUWYv_w2IoM/edit?usp=sharing)
 
