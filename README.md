@@ -25,6 +25,9 @@ Materiais de Aula - Redes de Computadores
 
 * [Slides 01 - Introdução e Conceitos Básicos](https://docs.google.com/presentation/d/1oASBRtDiCu_wyoGWKVNmXSdq-w_VJCT6E7U9ZFbhkAQ/edit?usp=sharing)
 
+Livro base e imagens: MAIA, Luiz P. Arquitetura de Redes de Computadores. LTC. Rio de Janeiro, 2013. 
+(http://training.com.br/arc/)
+
 Atividades
 
 [01~04](https://goo.gl/PPRjYo)
